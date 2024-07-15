@@ -35,7 +35,7 @@ The choice of the best model for credit risk modeling can depend on various fact
 ## Support Vector Machines (SVM):
 
 - Strengths: Effective in high-dimensional spaces, robust to overfitting in some cases.
-- Use Case: Less common in credit risk modeling due to computational complexity and interpretability - - - concerns, but can be used for specific applications.
+- Use Case: Less common in credit risk modeling due to computational complexity and interpretability concerns, but can be used for specific applications.
 
 ## Neural Networks:
 
